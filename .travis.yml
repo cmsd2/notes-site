@@ -26,6 +26,7 @@ deploy:
   local_dir: build
   detect_encoding: true
   skip_cleanup: true
+  bucket: $dev_SITE_BUCKET
   on:
     branch: master
 
