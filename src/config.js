@@ -1,7 +1,7 @@
 
 export default {
   MAX_ATTACHMENT_SIZE: 5000000,
-  apiBaseUrl: 'https://cdmddj1101.execute-api.us-east-1.amazonaws.com/dev',
+  apiBaseUrl: 'https://notes-api-dev.octomonkey.cloud/dev',
   issuer: 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_binwYKTFK',
   loginUrl: 'https://cognito.octomonkey.cloud/login',
   logoutUrl: 'https://cognito.octomonkey.cloud/logout',
